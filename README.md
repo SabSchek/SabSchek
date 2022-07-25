@@ -6,8 +6,8 @@ I am currently on my way to become a Web Developer.
 
 <div>
 <ul>
-  <li>Yay: dogs, green diet, concerts</li>
-  <li>Nay: cigaretts, jellybeans, gyros</li>
+  <p>YAAAAY! dogs, green diet, concerts</p>
+  <p>NAAAY! cigaretts, jellybeans, gyros</p>
   </ul>
 </div>
 
