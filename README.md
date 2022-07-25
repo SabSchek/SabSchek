@@ -12,3 +12,4 @@ I am currently on my way to become a Web Developer.
 </div>
 
 
+<img src="https://www.cube.de/filestore/images/CfVoE3/0306.png?c4a8ed" alt="NeueFische" width="250" height="250">
