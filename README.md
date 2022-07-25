@@ -1,4 +1,4 @@
-<h1 style="color": blue; >Hi, this is Fine from Hamburg</h2>
+<h1>Hi, this is Fine from Hamburg</h1>
 
 I am currently on my way to become a Web Developer.
 
@@ -11,4 +11,4 @@ I am currently on my way to become a Web Developer.
   </ul>
 </div>
 
-h1{font-family:“Times New Roman”, Times, serif;}
+
