@@ -23,7 +23,5 @@
 :thumbsdown:</b> cigaretts, jellybeans, gyros</p>
 
 
-<a href="https://github.com/support-ukraine/support-ukraine">
-  <img src="hhttps://img.freepik.com/premium-vector/support-ukraine-pray-ukraine-peace-concept-illustration-blue-yellow-flag-icon_421054-1684.jpg" />
-</a>
+
 
